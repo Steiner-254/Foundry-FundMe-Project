@@ -1,5 +1,11 @@
 ## Foundry
 
+## Whats's Remaining To Achieve?
+1. Proper README
+2. Integration tests
+3. Programatic verifications
+4. Push to Github
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
